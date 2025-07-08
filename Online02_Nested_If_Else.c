@@ -56,5 +56,8 @@ If the point (x,y)is in the 1st quadrant check -
             }
 
         }
+        else{
+            printf("invalid Input!");
+        }
 
     }
